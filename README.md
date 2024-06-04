@@ -1,6 +1,6 @@
 # Algernon Example Site
 
-An example site that uses Algernon, ref https://github.com/xyproto/algernon/issues/147
+An example site that uses Algernon.
 
 The idea is to be able to deploy a simple web site to Google Cloud Run.
 
